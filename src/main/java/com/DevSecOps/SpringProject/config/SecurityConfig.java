@@ -1,4 +1,4 @@
-package com.SmartHome.SpringProject.config;
+package com.DevSecOps.SpringProject.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

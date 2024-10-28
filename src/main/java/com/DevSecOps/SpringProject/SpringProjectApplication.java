@@ -1,4 +1,4 @@
-package com.SmartHome.SpringProject;
+package com.DevSecOps.SpringProject;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
